@@ -1,0 +1,6 @@
+modules/contrib
+
+modules/*.txt
+profiles/*.txt
+sites/*.txt
+themes/*.txt
